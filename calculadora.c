@@ -43,5 +43,6 @@ int main(void){
     return 0;
 }
 
-
+// teste
+//"a sociedade tecnoindustrial e suas consequencias foram um desastre para a raca humana" - Silvio Santos
 
